@@ -1,0 +1,16 @@
+C:\Users\Utente\source\repos\distributore\bin\Debug\net8.0-windows\distributore.exe
+C:\Users\Utente\source\repos\distributore\bin\Debug\net8.0-windows\distributore.deps.json
+C:\Users\Utente\source\repos\distributore\bin\Debug\net8.0-windows\distributore.runtimeconfig.json
+C:\Users\Utente\source\repos\distributore\bin\Debug\net8.0-windows\distributore.dll
+C:\Users\Utente\source\repos\distributore\bin\Debug\net8.0-windows\distributore.pdb
+C:\Users\Utente\source\repos\distributore\obj\Debug\net8.0-windows\distributore.Form1.resources
+C:\Users\Utente\source\repos\distributore\obj\Debug\net8.0-windows\distributore.csproj.GenerateResource.cache
+C:\Users\Utente\source\repos\distributore\obj\Debug\net8.0-windows\distributore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\distributore\obj\Debug\net8.0-windows\distributore.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\distributore\obj\Debug\net8.0-windows\distributore.AssemblyInfo.cs
+C:\Users\Utente\source\repos\distributore\obj\Debug\net8.0-windows\distributore.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\distributore\obj\Debug\net8.0-windows\distributore.dll
+C:\Users\Utente\source\repos\distributore\obj\Debug\net8.0-windows\refint\distributore.dll
+C:\Users\Utente\source\repos\distributore\obj\Debug\net8.0-windows\distributore.pdb
+C:\Users\Utente\source\repos\distributore\obj\Debug\net8.0-windows\distributore.genruntimeconfig.cache
+C:\Users\Utente\source\repos\distributore\obj\Debug\net8.0-windows\ref\distributore.dll
